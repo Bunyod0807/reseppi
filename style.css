@@ -1,0 +1,23 @@
+.div{
+    background-color: rgb(232, 210, 253);
+    border-radius: 3px;
+}
+.h1{
+    color: red;
+}
+span{
+    font-weight: 900;
+    
+}
+.plate{
+   color: red;
+   
+}
+.c1{
+    display: flex ;
+    gap: 500px;
+    
+}
+#g1{
+    border-top: 1px solid black;
+}
